@@ -4,7 +4,7 @@
 A bioinformatician requires studying both biology and computer science, some scientists have pursued the field through Genomics and Genetics, and writing programs, while others have pursued it through project-based experiences. Here is my short list of websites to get started on the journey...
 
 * Comprehensive Genetics lesson. [learn genetics utah.edu](https://learn.genetics.utah.edu)
-* Human Genome Resource. [Human Genome NIH National Library of Medicine] (https://www.ncbi.nlm.nih.gov/datasets/taxonomy/9606)
+* Human Genome Resource. [Human Genome NIH National Library of Medicine](https://www.ncbi.nlm.nih.gov/datasets/taxonomy/9606)
 * Human disease resource. [Human diseases](https://www.genecards.org)
 * GATK. [Genome Analysis Toolkit](https://gatk.broadinstitute.org/hc/en-us)
 * Blast. [Blast](https://blast.ncbi.nlm.nih.gov/Blast.cgi) and Samtools [samtools](https://www.htslib.org)
