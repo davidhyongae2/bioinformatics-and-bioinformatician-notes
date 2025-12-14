@@ -1,7 +1,7 @@
 
 ### Bioinformatician's notes for biological science by David Gae. Licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
-A bioinformatician requires studying both biology and computer science, some scientists have pursued the field through Genomics and Genetics, and writing programs, while others have pursued it through project-based experiences. Here is my short list of websites to get started on the journey...
+A bioinformatician requires studying both biology and computer science, some scientists have pursued the field through Genomics and Genetics and writing programs, while others have pursued it through project-based experiences. Here is my short list of websites to get started on the journey...
 
 * Comprehensive Genetics lesson. [learn genetics utah.edu](https://learn.genetics.utah.edu)
 * Human Genome Resource. [Human Genome NIH National Library of Medicine](https://www.ncbi.nlm.nih.gov/datasets/taxonomy/9606)
