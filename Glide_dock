@@ -1,6 +1,6 @@
 #Physical-docking
 #using Glide
-#Schrödinger Release 2025-4: BioLuminate, Schrödinger, LLC, New York, NY, 2025.
+#Schrödinger Release 2025-4: Glide, Schrödinger, LLC, New York, NY, 2025.
 
 from schrodinger.structure import StructureReader
 
