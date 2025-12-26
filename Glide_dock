@@ -1,6 +1,7 @@
 #Physical-docking
 #using Glide
-#based on CCG grid method
+#Schrödinger Release 2025-4: BioLuminate, Schrödinger, LLC, New York, NY, 2025.
+
 from schrodinger.structure import StructureReader
 
 #test file
