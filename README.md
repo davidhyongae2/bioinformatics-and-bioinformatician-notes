@@ -8,4 +8,3 @@ Bash script example
 ![Image](https://github.com/user-attachments/assets/03ac1576-4c49-47e4-80d7-b4b6da192e18)
 
 
-General inquiries for bioinformatics and cheminformatics projects and questions should be directed to Stack Overflow: [user:16120048](https://stackoverflow.com/users/16120048/davidhyongae2) 
