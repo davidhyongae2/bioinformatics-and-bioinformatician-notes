@@ -1,5 +1,5 @@
  ## Chem/Bioinformatician 
-Bioinformatician experienced in edirect, alignment, genotype, data parsing, statistics, visualization, chemical searching, and chemical docking.
+Bioinformatician experienced in edirect, alignment, genotyping, data parsing, statistics, visualization, chemical searching, and chemical docking.
 
 ![Image](https://github.com/user-attachments/assets/58f8bdf0-a70d-4b12-a08c-d4af507c9e2f)
 
